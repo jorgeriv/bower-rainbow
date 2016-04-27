@@ -15,7 +15,7 @@
     "generator",
     "library"
   ],
-  "homepage": "https://github.com/jorgeriv/rainbow#readme",
+  "homepage": "https://github.com/jorgeriv/rainbowjs#readme",
   "moduleType": [
     "globals",
     "node"
